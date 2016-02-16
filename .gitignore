@@ -1,0 +1,6 @@
+lahman-csv_2015-01-24
+*.csv
+*.zip
+.idea
+.DS_Store
+.ipynb_checkpoints/
